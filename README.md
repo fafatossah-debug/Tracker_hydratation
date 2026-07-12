@@ -68,4 +68,4 @@ Pour le détail des problèmes rencontrés pendant la mise en place du projet (e
 
 ## Auteur
 
-Anaïs — Pigier Côte d'Ivoire, LPRGL3A (2025–2026)
+Tossah Fafa — Pigier Côte d'Ivoire, LPRGL3A (2025–2026)
