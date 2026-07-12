@@ -146,8 +146,8 @@ git commit -m "Nettoyage du gitignore pour projet Android natif"
 
 - **Identité Git locale au projet** (et non globale), pour éviter d'attribuer les commits à un autre étudiant :
   ```bash
-  git config user.name "Anaïs"
-  git config user.email "..."
+  git config user.name "Tossah Fafa"
+  git config user.email "fafatossah@gmail.com"
   ```
 - **Nettoyage des identifiants après usage** : suppression du credential helper et des entrées enregistrées dans le Gestionnaire d'identification Windows après le push, pour ne pas laisser de token d'accès actif sur une machine partagée.
 
